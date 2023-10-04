@@ -21,7 +21,6 @@ const NavBar = () => {
                   <MenuItem>Ofertas Semanales</MenuItem>
                   <MenuItem>Productos</MenuItem>
                   <MenuItem>Proximos en venta</MenuItem>
-                  <MenuItem>Carrito</MenuItem>
                   <MenuItem>Perfil</MenuItem>
                 </MenuList>
               </Menu>
