@@ -1,8 +1,12 @@
 import React from 'react'
 
-const Bienvenida = () => {
+const Bienvenida = ({ nombre,miArray,persona }) => {
   return (
-    <div>Bienvenida</div>
+    <div>
+      <h1>{nombre}</h1>
+      <p>{miArray}</p>
+      <p>{persona.nombre}</p>
+    </div>
   )
 }
 
