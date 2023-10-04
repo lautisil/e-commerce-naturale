@@ -1,5 +1,4 @@
 import React from 'react'
-import Bienvenida from './componentes/Bienvenida'
 import NavBar from './componentes/NavBar'
 import ItemListContainer from './componentes/ItemListContainer'
 
